@@ -1,1 +1,1 @@
-# 21cardgame
+The 21 card game begins with, yep, you guessed it, 21 cards. The players can choose to draw between 1 and 3 cards from the deck per turn, alternating turns after each pick. The player that pulls the last card from the deck wins the game. An algorithm was implemented that guarantees the program wins the game if the user declines the first turn.
